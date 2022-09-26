@@ -32,7 +32,7 @@ nltk==3.4
 numpy==1.22.0
 olefile==0.45.1
 pdfminer==20140328
-Pillow==9.0.0
+Pillow==9.0.1
 proglog==0.1.9
 pycrypto==2.6.1
 PyJWT==2.4.0
