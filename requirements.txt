@@ -29,7 +29,7 @@ imageio==2.4.1
 lxml==4.9.1
 moviepy==1.0.0
 nltk==3.4
-numpy==1.16.2
+numpy==1.22.0
 olefile==0.45.1
 pdfminer==20140328
 Pillow==9.0.0
