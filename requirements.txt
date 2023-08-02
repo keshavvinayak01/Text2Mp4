@@ -10,7 +10,7 @@ bz2file==0.98
 certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
-cryptography==39.0.1
+cryptography==41.0.3
 decorator==4.4.0
 Django==2.2.28
 django-bootstrap4==0.0.8
